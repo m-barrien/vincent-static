@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.vincentsolar.com	TRUE	/	FALSE	1999999999	ultima_pagina	%2Fwp-json%2Foembed%2F1.0%2Fembed%3Furl%3Dhttps%253A%252F%252Fwww.vincentsolar.com%252Fvincent-solar-presente-en-intersolar-2018-sao-paulo%252F%26format%3Dxml
+www.vincentsolar.com	TRUE	/	FALSE	1999999999	paginas_navegadas	78
+
