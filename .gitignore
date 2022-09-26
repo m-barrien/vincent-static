@@ -1,8 +1,1 @@
-*.(jpg|gif|jpeg|png|PNG|JPG|JPEG)
-*.jpg
-*.png
-*.JPG
-*.PNG
-*.jpeg
-*.gif
 *.json
