@@ -17474,5 +17474,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 $( document ).ready(function() {
     $(".dock-button.mov > a").attr({"href":"#modalContacto", "data-toggle":"modal", "data-target":"#modalContacto"});
-    $("#formContacto").prepend('<div class="form-group"><label for="exampleFormControlInput1">Escribenos:</label><div id="" class=""><a href="tel:+56228696306" class="btn btn-primary d-none"><i class="fas fa-phone"></i><b>(2) 2869 6306</b></a>&nbsp;<a href="mailto:ventas@vincentsolar.com?subject=Contacto%20|%20Vincent%20Solar%20-%20Kit%20Solar%20Ongrid%20|%20Kit%20Solar%20Offgrid%20|%20Energía%20Solar%20|%20Panel%20Solar%20Fotovoltaico%20|%20Paneles%20Fotovoltaicos" class="btn btn-primary mt-1 mb-1"><i class="fas fa-envelope"></i>&nbsp;<b>ventas@vincentsolar.com</b></a></div>  </div>');
+    $("a.boton-cotizar").attr({"href":"#modalContacto", "data-toggle":"modal", "data-target":"#modalContacto"});
+    //$("#formContacto").prepend('<div class="form-group"><label for="exampleFormControlInput1">Escribenos:</label><div id="" class=""><a href="tel:+56228696306" class="btn btn-primary d-none"><i class="fas fa-phone"></i><b>(2) 2869 6306</b></a>&nbsp;<a href="mailto:ventas@vincentsolar.com?subject=Contacto%20|%20Vincent%20Solar%20-%20Kit%20Solar%20Ongrid%20|%20Kit%20Solar%20Offgrid%20|%20Energía%20Solar%20|%20Panel%20Solar%20Fotovoltaico%20|%20Paneles%20Fotovoltaicos" class="btn btn-primary mt-1 mb-1"><i class="fas fa-envelope"></i>&nbsp;<b>ventas@vincentsolar.com</b></a></div>  </div>');
 });
